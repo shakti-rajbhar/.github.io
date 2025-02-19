@@ -1,2 +1,2 @@
 # .github.io
-my personal website repo
+my website repo
